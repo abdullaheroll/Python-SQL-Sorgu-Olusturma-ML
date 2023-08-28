@@ -1,4 +1,4 @@
-# Python Makine Öğrenimi ile SQL Sorgu 
+# Python Makine Öğrenimi ile SQL Sorgu Oluşturma
 
 ## Giriş
 Python programlama dilini kullanarak metin verilerini işleme, doğal dil işleme (NLP) tekniklerini uygulama ve makine öğrenimi yöntemleri ile veri analizi yapma sürecini içeren "Python Makine Öğrenimi ile SQL Sorgu Oluşturma" projesinin ayrıntılı bir incelemesini sunmaktadır.
