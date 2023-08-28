@@ -28,8 +28,8 @@ Bu projede, metin tabanlı verileri işleme, TF-IDF dönüşümü ve cosine benz
 
 İşte bazı ilgili projeler
 
-[Ml.Net İle Duygu Analizi](https://github.com/abdullaheroll/Ml.Net-TR-Duygu-Analizi)
-[Ml.Net İle Spam Analizi](https://github.com/abdullaheroll/Ml.Net-TR-Spam-Analizi)
+- [Ml.Net İle Duygu Analizi](https://github.com/abdullaheroll/Ml.Net-TR-Duygu-Analizi)
+- [Ml.Net İle Spam Analizi](https://github.com/abdullaheroll/Ml.Net-TR-Spam-Analizi)
 
 ## Veri setinin alındığı yer:
 
