@@ -1,7 +1,7 @@
 # Python Makine Öğrenimi ile SQL Sorgu 
 
 ## Giriş
-Bu rapor, Python programlama dilini kullanarak metin verilerini işleme, doğal dil işleme (NLP) tekniklerini uygulama ve makine öğrenimi yöntemleri ile veri analizi yapma sürecini içeren "Python Makine Öğrenimi ile SQL Sorgu Oluşturma" projesinin ayrıntılı bir incelemesini sunmaktadır.
+Python programlama dilini kullanarak metin verilerini işleme, doğal dil işleme (NLP) tekniklerini uygulama ve makine öğrenimi yöntemleri ile veri analizi yapma sürecini içeren "Python Makine Öğrenimi ile SQL Sorgu Oluşturma" projesinin ayrıntılı bir incelemesini sunmaktadır.
 
 ## Amaç
 Bu projenin amacı, kullanıcı tarafından girilen metin tabanlı veriyi alarak, bu metni veri kümesindeki metinlere benzerlik temelinde analiz ederek en uygun SQL sorgusunu oluşturmayı amaçlamaktadır.
